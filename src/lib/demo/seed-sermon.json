@@ -1,0 +1,55 @@
+{
+  "id": "sermon-demo-seed",
+  "title": "Hope in Crisis",
+  "source": "docx",
+  "importedAt": "2026-04-19T12:00:00.000Z",
+  "rawText": "Hope in Crisis\n\nPsalm 23:1–4\n\n1. God sees you in the valley\n• He walks beside you\n2. Rest in his provision\n\nQuote: \"The Lord is my shepherd.\"\n\nPrayer\n\nClosing",
+  "blocks": [
+    {
+      "id": "123e4567-e89b-42d3-a456-426614174001",
+      "type": "title",
+      "text": "Hope in Crisis",
+      "order": 0,
+      "confidence": 0.9
+    },
+    {
+      "id": "123e4567-e89b-42d3-a456-426614174002",
+      "type": "verse_reference",
+      "text": "Psalm 23:1–4",
+      "order": 1,
+      "confidence": 0.85
+    },
+    {
+      "id": "123e4567-e89b-42d3-a456-426614174003",
+      "type": "main_point",
+      "text": "1. God sees you in the valley",
+      "order": 2,
+      "confidence": 0.88
+    },
+    {
+      "id": "123e4567-e89b-42d3-a456-426614174004",
+      "type": "sub_point",
+      "text": "• He walks beside you",
+      "order": 3,
+      "confidence": 0.8
+    },
+    {
+      "id": "123e4567-e89b-42d3-a456-426614174005",
+      "type": "quote",
+      "text": "\"The Lord is my shepherd.\"",
+      "order": 4,
+      "confidence": 0.75
+    },
+    {
+      "id": "123e4567-e89b-42d3-a456-426614174006",
+      "type": "closing",
+      "text": "Prayer — Closing",
+      "order": 5,
+      "confidence": 0.6
+    }
+  ],
+  "metadata": {
+    "fileName": "demo-sermon.docx",
+    "parserVersion": "1.0.0"
+  }
+}
